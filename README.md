@@ -5,7 +5,7 @@ Solar Intelligence Predictive Model For Power Generation And Radiation
 This project aims to develop a robust system for accurately classifying 7 types of skin cancer from images of skin lesions. The project utilizes an ensemle model, comprising of Resnet50, Inception, DensetNet and EfficientNet. By combining the strengths of these models, the ensemble approach improves the overall classification performance, offering a reliable tool for aiding dermatologists.
 
 ## Features
-
+```
 Real-time forecasting
 Data-driven insights
 Machine learning algorithms
@@ -15,6 +15,7 @@ Energy output optimization
 Solar radiation analysis
 Predictive accuracy
 Model interpretability
+```
 ## Requirements
 Software Requirements:
 Operating System 		: Windows
