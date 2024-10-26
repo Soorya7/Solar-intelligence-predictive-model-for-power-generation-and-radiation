@@ -32,8 +32,9 @@ RAM        		: minimum 2 GB
 
 
 ## Output
-![Screenshot 2024-10-22 222409](https://github.com/user-attachments/assets/231ae367-8a48-44fc-bfef-4255ef963566)
-![Screenshot 2024-10-23 102809](https://github.com/user-attachments/assets/71c13b95-f594-40ab-b3f4-562ce8024ee7)
+![Screenshot 2024-10-22 222409](https://github.com/user-attachments/assets/c214f5af-bb11-4ee1-95ca-ef0da23746cf)
+![Screenshot 2024-10-23 102809](https://github.com/user-attachments/assets/a97ba8fb-8074-4c84-af18-459d85fcee78)
+
 
 Accuracy : 96%
 
